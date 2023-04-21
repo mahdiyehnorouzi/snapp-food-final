@@ -1,0 +1,14 @@
+.coupon__Container {
+  display: flex;
+  background-color: white;
+  border-radius: 10px 0 0 10px;
+  position: absolute;
+  padding: 2px 5px;
+  top: 10px;
+  right: 0;
+  box-shadow: 0px 0px 3px 0px #dddada;
+  width: 70%;
+  justify-content: flex-start;
+  direction: rtl;
+  font-size: 12px;
+}

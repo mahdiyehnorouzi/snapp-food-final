@@ -1,0 +1,27 @@
+.content__rate__container {
+  display: flex;
+  align-items: center;
+}
+
+.content__rate__container__box {
+  background-color: rgb(221 248 224);
+  display: flex;
+  padding: 0 5px;
+  border-radius: 3px;
+  font-size: 13px;
+  color: #107410;
+  align-items: center;
+  font-weight: 300;
+}
+
+.count__card {
+  font-size: 13px;
+  color: gray;
+  margin-left: 4px;
+}
+
+.star__image {
+  width: 10px;
+  height: 10px;
+  color: #107410;
+}
